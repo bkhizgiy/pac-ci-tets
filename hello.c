@@ -2,7 +2,7 @@
 
 int main() {
     printf("hello automotive");
-    printf("ci pipeline tets 9");
+    printf("ci pipeline tets 1");
 
     return 0;
 }
